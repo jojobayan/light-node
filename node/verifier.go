@@ -1,4 +1,5 @@
-package node
+git clone https://github.com/Layer-Edge/light-node.git
+cd light-nodepackage node
 
 import (
 	"fmt"
